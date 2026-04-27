@@ -80,3 +80,64 @@ Analysed product category performance to identify high-demand segments.
 
 **Dashboard Overview:**
 ![Adidas](Adidas.png)
+
+
+# Project 3
+
+**Title:** [Superstore Business Preformance Dashboard](https://github.com/samadediran1-hub/github.io/blob/main/Superstore%20Sales%20Summary.pbix)
+
+**Tools Used:** Microsoft Power BI, Data visualisation best practices, Interactive dashboard design, Data modelling using implicit measures
+
+**Dashboard Overview:**
+![Superstore](Superstore.png)
+
+**Project Description:** 
+This project presents a one-page interactive business dashboard built using Power BI, based on the Superstore dataset.
+The dashboard provides a clear view of sales performance, profitability, customer behaviour, and operational insights, enabling stakeholders to quickly understand business performance and identify key trends.
+The objective of this project is to demonstrate data visualisation, dashboard design, and business-focused analysis using Power BI.
+
+*Business Questions Addressed:*
+
+What is the overall sales and profit performance?
+
+Which regions contribute the most profit?
+
+Which product categories drive revenue?
+
+How do discounts impact profitability?
+
+Who are the top-performing customers?
+
+*Dashboard Features*
+
+KPI cards(Performance Overview):
+The dashboard includes key performance indicators (KPIs) such as Total Sales, Total Profit, Total Orders, and Total Quantity to provide a high-level snapshot of business performance. These metrics allow users to quickly assess overall performance and identify whether the business is operating efficiently before exploring detailed insights.
+
+Sales trend analysis(Time Based Insight): A line chart is used to track sales performance over time at a monthly level.
+This enables identification of trends such as growth patterns, seasonal fluctuations, and sudden changes in performance, supporting better forecasting and planning.
+
+Category level Sales distribution: This helps highlight which categories are driving revenue and where the business should focus its resources.
+
+Regional profit comparison with conditional formatting: This allows quick identification of high-performing regions as well as underperforming areas that may require strategic intervention.
+
+Discount vs Profit relationship (scatter analysis): This provides insight into how pricing strategies impact profit margins, revealing that higher discounts are often associated with reduced profitability.
+
+Sub-category performance breakdown: This enables identification of best-selling products and supports inventory, marketing, and product strategy decisions.
+
+Top 10 customers ranking: Conditional formatting is used to distinguish profitable and loss-making customers, helping identify high-value customers as well as those that may negatively impact profitability.
+
+Interactive slicers: The dashboard includes slicers for Region, Segment, Category, and Ship Mode, allowing users to dynamically filter the data.
+All visuals update in real time based on selections, enabling flexible and user-driven exploration of the data without requiring technical expertise.
+
+This project demonstrates the ability to transform raw data into a clear, interactive, and business-focused dashboard, supporting data-driven decision-making.
+
+**Key Insights:**
+
+The West region generates the highest profit contribution.
+
+Technology category drives the largest share of revenue.
+
+Higher discounts are generally associated with lower profitability.
+
+A small number of customers contribute a significant portion of total sales.
+
